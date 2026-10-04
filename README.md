@@ -31,6 +31,20 @@ The project is built using **Node.js, Express.js, MongoDB, Mongoose, JWT, Fireba
 
 ---
 
+## Student Details
+
+| Name          | Akhila Anish Das                    |
+| ------------- | ----------------------------------- |
+| Roll No.      | 150096725016                        |
+| Program       | B.Tech CSE & AI                     |
+| University    | ITM Skills University, Kharghar     |
+| Cohort        | Larry Page                          |
+| Academic Year | 2025–2029                           |
+| Semester      | Semester 3                          |
+| Sprint        | Sprint 1                            |
+| Project       | JobLink — Job Portal Backend System |
+
+
 # 2. Problem Statement
 
 Traditional job portal systems require multiple operations such as user registration, authentication, job posting, resume management, applications, application tracking, interview scheduling, and notifications.
