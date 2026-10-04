@@ -7,7 +7,6 @@ A complete backend system for a job portal that connects jobseekers and employer
 ## Student Details
 
 | Name          | Akhila Anish Das                    |
-| ------------- | ----------------------------------- |
 | Roll No.      | 150096725016                        |
 | Program       | B.Tech CSE & AI                     |
 | University    | ITM Skills University, Kharghar     |
@@ -1081,14 +1080,6 @@ Firebase Admin SDK successfully initializes with the configured Firebase project
 The Socket.io client successfully connects to the JobLink real-time server and receives the server welcome event.
 
 ![24 Socket.io Connection](SCREENSHOTSSS/24-SocketIO-Connection-Success.png)
-
----
-
-## 22.25 Swagger API Documentation
-
-Swagger successfully displays the documented JobLink API endpoints.
-
-![25 Swagger API Documentation](SCREENSHOTSSS/25-Swagger-API-Documentation-Success.png)
 
 ---
 
