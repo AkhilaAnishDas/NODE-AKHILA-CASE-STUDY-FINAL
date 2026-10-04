@@ -4,6 +4,20 @@ A complete backend system for a job portal that connects jobseekers and employer
 
 ---
 
+## Student Details
+
+| Name          | Akhila Anish Das                    |
+| ------------- | ----------------------------------- |
+| Roll No.      | 150096725016                        |
+| Program       | B.Tech CSE & AI                     |
+| University    | ITM Skills University, Kharghar     |
+| Cohort        | Larry Page                          |
+| Academic Year | 2025–2029                           |
+| Semester      | Semester 3                          |
+| Sprint        | Sprint 1                            |
+| Project       | JobLink — Job Portal Backend System |
+
+
 ## 1. Project Overview
 
 **JobLink** is a backend application developed as part of a backend development case study.
