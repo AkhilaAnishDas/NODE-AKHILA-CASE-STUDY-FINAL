@@ -8,16 +8,15 @@ https://joblink-backend-aoff.onrender.com
 
 ## Student Details
 
-| Name          | Akhila Anish Das                    |
-| Roll No.      | 150096725016                        |
-| Program       | B.Tech CSE & AI                     |
-| University    | ITM Skills University, Kharghar     |
-| Cohort        | Larry Page                          |
-| Academic Year | 2025–2029                           |
-| Semester      | Semester 3                          |
-| Sprint        | Sprint 1                            |
-| Project       | JobLink — Job Portal Backend System |
-
+Name: Akhila Anish Das <br>
+Roll No: 150096725016 <br>                      
+Program: B.Tech CSE & AI <br>
+University: ITM Skills University, Kharghar <br>
+Cohort: Larry Page  <br>
+Academic Year: 2025–2029 <br>
+Semester: Semester 3 <br>   
+Sprint: Sprint 1 <br>
+Project: JobLink — Job Portal Backend System 
 
 ## 1. Project Overview
 
