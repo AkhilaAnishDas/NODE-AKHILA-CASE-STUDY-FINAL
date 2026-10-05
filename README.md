@@ -1,6 +1,8 @@
 # JobLink — Job Portal Backend System
 
-A complete backend system for a job portal that connects jobseekers and employers through authentication, job management, resume handling, applications, notifications, interviews, administration, Firebase integration, Socket.io real-time communication, MongoDB Atlas, and Swagger API documentation.
+A complete backend system for a job portal that connects jobseekers and employers through authentication, job management, resume handling, applications, notifications, interviews, administration, Firebase integration, Socket.io real-time communication, MongoDB Atlas, and Swagger API documentation. <br>
+
+https://joblink-backend-aoff.onrender.com
 
 ---
 
@@ -814,9 +816,7 @@ The root endpoint returns:
 
 Swagger UI is available at:
 
-```text
 http://localhost:8080/api-docs
-```
 
 Swagger provides documentation for the JobLink REST APIs and displays the available endpoints in an interactive interface.
 
@@ -1083,7 +1083,7 @@ The Socket.io client successfully connects to the JobLink real-time server and r
 
 ---
 
-# 23. Complete Development Workflow
+# 23. Complete Development Workflow >>>
 
 The project was developed and verified in the following sequence:
 
@@ -1131,7 +1131,7 @@ Final Verification
 
 ---
 
-# 24. Final API Feature Summary
+# 24. Final API Feature Summary >>>
 
 | Module         | Features                             |
 | -------------- | ------------------------------------ |
@@ -1149,7 +1149,7 @@ Final Verification
 
 ---
 
-# 25. Final Project Outcome
+# 25. Final Project Outcome >>>
 
 JobLink successfully provides a complete backend foundation for a job portal system.
 
@@ -1181,7 +1181,7 @@ The complete backend workflow has been implemented, tested, documented, and orga
 
 ---
 
-# 26. Project Information
+# 26. Project Information >>>
 
 **Project Name:** JobLink — Job Portal Backend System
 
